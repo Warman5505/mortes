@@ -1,0 +1,3 @@
+function auth() {
+alert("Hi");
+}
