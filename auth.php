@@ -4,8 +4,6 @@
   }
 ?>
 <form
-      action=""
-      method="post"
       <input type="text" name="searchterm">
       <input type="submit" value"Search">
 </form>
